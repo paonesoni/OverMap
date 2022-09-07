@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="OverMap">
+        <attr name="pathColor" format="color" />
+        <attr name="pathShadowColor" format="color" />
+        <attr name="capStartColor" format="color" />
+        <attr name="capEndColor" format="color" />
+        <attr name="pathWidth" format="dimension" />
+        <attr name="pathShadowWidth" format="dimension" />
+        <attr name="capSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
